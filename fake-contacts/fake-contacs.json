@@ -3,7 +3,7 @@
     "lastActivity": "2023-08-21T12:25:24+00:00",
     "isOnline": false,
     "name": "User 1",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 1,
     "roomId": "134",
     "placed": ""
@@ -12,7 +12,7 @@
     "lastActivity": "2023-08-20T15:10:08+00:00",
     "isOnline": true,
     "name": "User 2",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 2,
     "roomId": "134",
     "placed": ""
@@ -21,7 +21,7 @@
     "lastActivity": "2023-08-19T18:45:32+00:00",
     "isOnline": false,
     "name": "User 3",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 3,
     "roomId": "135",
     "placed": ""
@@ -30,7 +30,7 @@
     "lastActivity": "2023-08-18T10:30:15+00:00",
     "isOnline": true,
     "name": "User 4",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 4,
     "roomId": "135",
     "placed": ""
@@ -39,7 +39,7 @@
     "lastActivity": "2023-08-17T14:20:30+00:00",
     "isOnline": true,
     "name": "User 5",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 5,
     "roomId": "136",
     "placed": ""
@@ -48,7 +48,7 @@
     "lastActivity": "2023-08-16T21:55:40+00:00",
     "isOnline": false,
     "name": "User 6",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 6,
     "roomId": "136",
     "placed": ""
@@ -57,7 +57,7 @@
     "lastActivity": "2023-08-15T17:10:50+00:00",
     "isOnline": true,
     "name": "User 7",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 7,
     "roomId": "137",
     "placed": ""
@@ -66,7 +66,7 @@
     "lastActivity": "2023-08-14T12:45:55+00:00",
     "isOnline": false,
     "name": "User 8",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 8,
     "roomId": "137",
     "placed": ""
@@ -75,7 +75,7 @@
     "lastActivity": "2023-08-13T09:30:05+00:00",
     "isOnline": true,
     "name": "User 9",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 9,
     "roomId": "138",
     "placed": ""
@@ -84,7 +84,7 @@
     "lastActivity": "2023-08-12T22:15:12+00:00",
     "isOnline": true,
     "name": "User 10",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 10,
     "roomId": "138",
     "placed": ""
@@ -93,7 +93,7 @@
     "lastActivity": "2023-08-11T18:40:20+00:00",
     "isOnline": false,
     "name": "User 11",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 11,
     "roomId": "139",
     "placed": ""
@@ -102,7 +102,7 @@
     "lastActivity": "2023-08-10T15:05:30+00:00",
     "isOnline": true,
     "name": "User 12",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 12,
     "roomId": "139",
     "placed": ""
@@ -111,7 +111,7 @@
     "lastActivity": "2023-08-09T11:30:40+00:00",
     "isOnline": false,
     "name": "User 13",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 13,
     "roomId": "140",
     "placed": ""
@@ -120,7 +120,7 @@
     "lastActivity": "2023-08-08T08:15:50+00:00",
     "isOnline": false,
     "name": "User 14",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 14,
     "roomId": "140",
     "placed": ""
@@ -129,7 +129,7 @@
     "lastActivity": "2023-08-07T06:40:00+00:00",
     "isOnline": true,
     "name": "User 15",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 15,
     "roomId": "141",
     "placed": ""
@@ -138,7 +138,7 @@
     "lastActivity": "2023-08-06T03:15:10+00:00",
     "isOnline": false,
     "name": "User 16",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 16,
     "roomId": "141",
     "placed": ""
@@ -147,7 +147,7 @@
     "lastActivity": "2023-08-05T01:10:20+00:00",
     "isOnline": true,
     "name": "User 17",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 17,
     "roomId": "142",
     "placed": ""
@@ -156,7 +156,7 @@
     "lastActivity": "2023-08-04T22:45:30+00:00",
     "isOnline": true,
     "name": "User 18",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 18,
     "roomId": "142",
     "placed": ""
@@ -165,7 +165,7 @@
     "lastActivity": "2023-08-03T20:20:40+00:00",
     "isOnline": false,
     "name": "User 19",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 19,
     "roomId": "143",
     "placed": ""
@@ -174,7 +174,7 @@
     "lastActivity": "2023-08-02T17:55:50+00:00",
     "isOnline": false,
     "name": "User 20",
-    "avatar": "https://thispersondoesnotexist.com/image",
+    "avatar": "https://thispersondoesnotexist.com/",
     "userId": 20,
     "roomId": "143",
     "placed": ""
